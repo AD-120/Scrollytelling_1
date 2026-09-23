@@ -1,0 +1,6 @@
+{
+  "name": "Beer Sheva Climate Innovation District",
+  "description": "Interactive scrollytelling presentation engine exploring how the Beer Sheva Climate Innovation District turns extreme desert conditions into strategic advantage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
